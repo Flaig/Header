@@ -5,8 +5,7 @@
             ссылки и т.д
         </ul>
     </div>
-
-<title>Подключение CSS файла</title>
+    
 <style type="text/css">
 #header {
     width: 920px;
