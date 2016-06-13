@@ -1,19 +1,13 @@
 <html>
 <head>
-<title>Подключение CSS файла</title>
-<style type="text/css">
-HTML структура 
-
 <div id="header">
         <ul>
             ссылки и т.д
         </ul>
     </div>
 
-
-
-CSS 
-
+<title>Подключение CSS файла</title>
+<style type="text/css">
 #header {
     width: 920px;
     text-transform: uppercase;
